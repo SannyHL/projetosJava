@@ -1,4 +1,4 @@
-# ** Atalhos Eclipse
+#  Atalhos Eclipse
 ***********************************
 
 Ctrl + 3 : abre caixa
